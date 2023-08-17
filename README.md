@@ -1,2 +1,2 @@
-# SpringBoot_with_MySql
+#SpringApi | MySQL
 Spring Api | Kotlin | MySQL | CRUD Operations | DatabaseConnection
